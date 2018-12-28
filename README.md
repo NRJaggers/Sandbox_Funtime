@@ -1,2 +1,2 @@
 # Sandbox_Funtime
-Personal Playground for figuring stuff out !
+Personal playground for figuring stuff out !
